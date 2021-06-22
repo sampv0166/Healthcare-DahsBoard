@@ -1,0 +1,9 @@
+.topbar {
+  height: 120px;
+  width: 1920px;
+  display: flex;
+}
+.topbar_icon {
+  margin-left: 42px;
+  margin-top: 42px;
+}

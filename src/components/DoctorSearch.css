@@ -1,0 +1,44 @@
+.search_container {
+  margin-top: 180px;
+  margin-left: 1525px;
+  height: 330px;
+  width: 300px;
+  position: absolute;
+  display: block;
+  background-color: rgb(227, 240, 255);
+  border-radius: 5px;
+  z-index: 1000;
+}
+.label {
+  font-weight: 700;
+  font-size: x-large;
+  padding-left: 25px;
+  color: rgb(24, 42, 99);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 250px;
+  height: 40px;
+  font-weight: 700;
+  font-size: larger;
+  padding-left: 25px;
+  border-radius: 10px;
+  border: 0px;
+  outline: 0px;
+  color: rgb(154, 159, 204);
+  margin-left: 25px;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.doctor_search_btn {
+  background-color: rgb(140, 92, 242);
+  background: linear-gradient(rgb(147, 107, 233), rgb(67, 27, 155));
+  color: white;
+  margin-top: 10px;
+  width: 250px;
+  height: 60px;
+  border-radius: 10px;
+  margin-left: 25px;
+}

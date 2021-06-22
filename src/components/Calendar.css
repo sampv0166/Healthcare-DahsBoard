@@ -1,0 +1,10 @@
+.calendar {
+  height: 460px;
+  width: 530px;
+  position: absolute;
+  margin-top: 140px;
+  margin-left: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  font-size: small;
+}

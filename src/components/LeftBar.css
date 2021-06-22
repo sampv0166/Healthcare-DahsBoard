@@ -1,0 +1,20 @@
+.leftbar {
+  width: 120px;
+  height: 1220px;
+  position: absolute;
+  margin-bottom: 100px;
+  background-color: white;
+  z-index: -1;
+}
+.icon {
+  margin-left: 20px;
+  margin-top: 70px;
+}
+.icon2 {
+  margin-left: 9px;
+  margin-top: 50px;
+}
+.icon8 {
+  margin-left: 20px;
+  margin-top: 280px;
+}

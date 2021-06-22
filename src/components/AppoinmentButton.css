@@ -1,0 +1,19 @@
+.appoinment_button {
+  width: 310px;
+  height: 70px;
+  background: linear-gradient(#009e6c, #3cbe47);
+  border-radius: 10px;
+  margin-top: 25px;
+  margin-left: 70px;
+  display: inline;
+}
+.appoinment_button_text {
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.arrow_icon {
+  margin-left: 20px;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
