@@ -13,7 +13,7 @@ function App() {
   const [selectedDay, setSelectedDay] = useState(null);
   return (
     <div className="app">
-      <TopBar />
+      {/* <TopBar />
       <LeftBar />
 
       <Calendar
@@ -24,7 +24,8 @@ function App() {
       />
 
       <Map />
-      <DoctorSearch />
+      <DoctorSearch /> */}
+      <h1>Hello word</h1>
     </div>
   );
 }
